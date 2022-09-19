@@ -1,4 +1,6 @@
-<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
+
 
 <h1 align="center">Hi 👋, I'm KHADEEJAH ASHRAF</h1>
 <h3 align="center">Python | HTML & CSS | WordPress | CHISEL | SQL</h3>
