@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejah123&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejah123" /> </p>
 <img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
 
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+
 
 - 🔭 I’m currently working on **Frontend Developing**
 
