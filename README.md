@@ -1,16 +1,17 @@
 <img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
 
 <h1 align="center">Hi 👋, I'm KHADEEJAH ASHRAF</h1>
-<h3 align="center">Python | HTML | CSS | WordPress | CHISEL | SQL</h3>
-
+<h3 align="center">Python | HTML & CSS | WordPress | CHISEL | SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejah123&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejah123" /> </p>
-
-
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
-
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
 
 - 🔭 I’m currently working on **Frontend Developing**
+
+- 🌱 I’m currently learning **CHISEL**
+
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **ayeshaaahraf012@gmail.com**
 
@@ -28,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadeejah123&show_icons=true&locale=en" alt="khadeejah123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadeejah123&" alt="khadeejah123" /></p>
+
