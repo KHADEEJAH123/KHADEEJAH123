@@ -60,5 +60,6 @@
 [![KHADEEJAH123's github activity graph](https://activity-graph.herokuapp.com/graph?username=KHADEEJAH123&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/thanks.svg'>
 
 
