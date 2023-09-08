@@ -53,14 +53,6 @@
 ---
 
 
-<div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
-</div>
-
-
-
-
-
 <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/thanks.svg'>
 
 
