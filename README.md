@@ -58,7 +58,8 @@
 </div>
 
 
-[![KHADEEJAH123's github activity graph](https://activity-graph.herokuapp.com/graph?username=KHADEEJAH123&bg_color=19000e&color=fafafa&line=c8580e&point=7d7373&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![samadpls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/samadpls/Programming-Gifs)
+<div align='center'>
 
 
 <img src='https://github.com/samadpls/samadpls/blob/main/.github/workflows/thanks.svg'>
