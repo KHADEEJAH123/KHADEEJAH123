@@ -11,7 +11,9 @@
    <img src="https://profile-counter.glitch.me/KHADEEJAH123/count.svg" align="center"/> 
  </p></div>
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a> About Me:
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+
+# <img src='.github/workflows/cartoon1.gif' height=65/>  About Me:
 
 - 🔭 I’m currently working on **Frontend Developing**
 
