@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Samad%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Khadeejah%20Ashraf%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
 
-<h1 align="center">Hi 👋, I'm KHADEEJAH ASHRAF</h1>
+
 <div align='center'>
 <a href="https://github.com/samadpls/Islamic-qoutes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Python+%7C+WordPress+%7C+CHISEL+%7CHTML+%26+CSS+%7C" alt="Typing SVG" />
 </a></div><br>
